@@ -16,7 +16,7 @@ body {
 a {
   color: #014e71;
 }
-a:hover {
+a:hover, a:focus {
   color: #0274a8;
 }
 hr {
